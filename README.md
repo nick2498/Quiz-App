@@ -1,6 +1,6 @@
 # Quiz-App-HTML-CSS-JS-From-Udemy
 
-##Building a Quiz App with HTML, CSS, and JavaScript
+## Building a Quiz App with HTML, CSS, and JavaScript
 
 ### Highlights of this app
 
