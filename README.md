@@ -22,3 +22,5 @@
 #### From whom I learned
 
 JAMES QUICK
+
+![Alt Text](https://github.com/nick2498/Quiz-App/blob/master/Quiz-App-Preview.png)
